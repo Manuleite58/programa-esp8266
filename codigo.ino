@@ -5,7 +5,7 @@
 //wifi mobil
 #define MAX_INTENTOS 50
 #define WIFI_SSID "wifi_leite"
-#define WIFI_PASS "pass"
+#define WIFI_PASS "pass1234"
 #define LED 14
 int tempo = 500;
 bool conectado = false;
